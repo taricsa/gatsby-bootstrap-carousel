@@ -29,6 +29,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     cd my-default-starter/
+    npm install react-bootstrap bootstrap
     gatsby develop
     ```
 
